@@ -7,7 +7,7 @@
 
 >这是我的个人主页
 
->>修改自 [dmego](https://github.com/dmego/home.github.io) 主页
+>修改自 [dmego](https://github.com/dmego/home.github.io) 主页
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
