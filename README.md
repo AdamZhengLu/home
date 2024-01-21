@@ -25,3 +25,7 @@
 
 ![主页GIF](https://unpkg.com/dmego-home-page@latest/assets/img/home.gif)
 
+### 注
+
+- 访问地址：[个人主页](https://adamzhenglu.github.io/Homepage/)
+- 使用了 [一言](http://hitokoto.cn/) 的 API 服务
