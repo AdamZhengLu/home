@@ -25,3 +25,5 @@
 
 - 访问地址：[个人主页](https://adamzhenglu.github.io/Homepage/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
+
+[![pages-build-deployment](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment)
