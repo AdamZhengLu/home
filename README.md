@@ -17,7 +17,7 @@
 
 >静态图
 
-![主页JPG](https://github.com/AdamZhengLu/Homepage/assets/img/home.jpg)
+![主页JPG](assets/img/home.jpg)
 
 
 
