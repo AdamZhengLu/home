@@ -11,15 +11,15 @@
 
 >借鉴了[北岛向南的小屋](https://javef.github.io/)的头像样式
 
+
+
 ### 效果图
 
 >静态图
 
-![主页JPG](https://unpkg.com/dmego-home-page@latest/assets/img/home.jpg)
+![主页JPG](https://github.com/AdamZhengLu/Homepage/assets/img/home.jpg)
 
->动态图
 
-![主页GIF](https://unpkg.com/dmego-home-page@latest/assets/img/home.gif)
 
 ### 注
 
