@@ -1,7 +1,8 @@
+[![pages-build-deployment](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment)
 
 ### 个人主页
 
->这是我的 [个人主页](home.zhenglu.top/)
+>这是我的 [个人主页](https://home.zhenglu.top/)
 
 >修改自 [dmego](https://github.com/dmego/home.github.io) 主页
 
@@ -23,7 +24,6 @@
 
 ### 注
 
-- 访问地址：[个人主页](https://home.zhenglu.top/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 
-[![pages-build-deployment](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AdamZhengLu/Homepage/actions/workflows/pages/pages-build-deployment)
+
