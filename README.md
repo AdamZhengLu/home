@@ -2,7 +2,7 @@
 
 ### 个人主页
 
->这是我的 [个人主页](https://home.zhenglu.top/)
+>这是我的 [个人主页](https://zhenglu.top/homepage/)
 
 >修改自 [dmego](https://github.com/dmego/home.github.io) 主页
 
